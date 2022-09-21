@@ -1,5 +1,6 @@
 # AnimalBot
 A simple Discord bot that gives a random fact or image about specific animals. Developed with Python.
+
 Note: This is a personal project. The bot is not available for public use. 
 
 # Goal
